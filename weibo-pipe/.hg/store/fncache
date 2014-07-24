@@ -1,0 +1,4 @@
+data/main.rb.i
+data/config.ru.i
+data/views/friend_timeline.haml.i
+data/config/nginx.conf.i

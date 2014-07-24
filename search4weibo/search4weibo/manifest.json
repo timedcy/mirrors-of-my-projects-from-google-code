@@ -1,0 +1,15 @@
+{
+  "name": "weibo search",
+  "description": "新浪微博搜索",
+  "manifest_version": 2,
+  "version": "1.0",
+  "icons":{
+	  "16" : "weibo.png",
+	  "48": "weibo48.png",
+      "128": "weibo128.png"
+  },
+  "permissions": ["contextMenus"],
+  "background": {
+  	"scripts": ["search4weibo.js"]
+  }
+}
